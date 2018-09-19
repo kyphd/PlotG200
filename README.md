@@ -106,7 +106,7 @@ For Nix-Gao plot, you can plot fitting curve if "show fitting curve" is ticked.
 
 ## Contributing
 
-1. Fork it ( http://github.com/kyphd/PlotG200/fork )
+1. Fork this
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
