@@ -2,7 +2,7 @@
 
 PlotG200 is a python program to generate some plots of data of "Nanoindenter G200".
 
-![PlotG200](https://raw.github.com/kyphd/plotg200/images/plotg200.png)
+![PlotG200](https://github.com/kyphd/PlotG200/blob/master/images/plotg200.png)
 
 ## Table of Content
 
