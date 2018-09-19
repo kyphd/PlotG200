@@ -1,11 +1,18 @@
 # PlotG200
 
-PlotG200 is a python program to generate some plots of data of "Nanoindenter G200".
+You can get various plots of "Nanoindenter G200" data, immediately.
 
-![PlotG200](https://raw.github.com/kyphd/plotg200/images/plotg200.png)
+![PlotG200](https://github.com/kyphd/PlotG200/blob/master/images/plotg200.png)
 
-## Table of Content
+## Table of Contents
 
+* [What is PlotG200?](#what-is-plotg200)
+* [Requirements](#requirements)
+* [Quick Start](#quick-start)
+* [How to Use](#how-to-use)
+* [Contributing](#contributing)
+* [Authors](#authors)
+* [License](#license)
 
 ## What is PlotG200?
 
@@ -81,7 +88,7 @@ $ python3 plotg200.py
 
 That's it! You can find the PlotG200 window.
 
-## How to use
+## How to Use
 
 1. Open Excel file of G200 with "open file" button.
 1. Choose plot type in "plot type" form:
