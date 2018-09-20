@@ -100,7 +100,7 @@ That's it! You can find the PlotG200 window.
 1. Select "Test" in Plot Test List. Tick the Test No. you want to plot.
 1. Set parameters: xrange, yrange, color, alpha, line plot, and legend.  
 For Nix-Gao plot, you can plot fitting curve if "show fitting curve" is ticked.
-1. For Nix-Gao plot, you can change xrange (min_x and max_x) parameter for fitting curve in "Fitting Parameter for Nix-Gao Plot" form.
+1. For Nix-Gao plot, you can change xrange (min_x and max_x) parameter for fitting curve in "Fitting Parameter for Nix-Gao Plot" form. Press "Enter" key to update the values.
 1. You can save images with "Save Figure" button.
 1. You can save csv file of fitting parameters for Nix-Gao plot with "Save CSV" button.
 
