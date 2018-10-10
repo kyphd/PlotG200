@@ -83,7 +83,7 @@ or download [zip](https://github.com/kyphd/plotg200/archive/master.zip) and unzi
 
 ~~~
 $ cd PlotG200
-$ python3 plotg200.py
+$ python plotg200.py
 ~~~
 
 That's it! You can find the PlotG200 window.
