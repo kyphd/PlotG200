@@ -30,6 +30,7 @@ class MyTk:
 
     openFTyp = [('Excel file', '*.xls'), ('Excel file', '*.xlsx')]
     saveFTyp = [('Image', '*.png')]
+    saveFTypForCSV = [('CSV', '*.csv')]     # modify by oizumi0123
 
     welcomemessage = "Hello, " + PlotG200.APPNAME + " ver." + PlotG200.VERSION + " by " + PlotG200.AUTHOR + \
                      " See " + PlotG200.GITHUB + "."
@@ -439,7 +440,7 @@ class MyTk:
         Log.addLog(filepath + " is successfully saved.")
 
     def _saveCsv(self):
-        filepath = tkfd.asksaveasfilename(filetypes=MyTk.saveFTyp, initialdir=self.dirpath,
+        filepath = tkfd.asksaveasfilename(filetypes=MyTk.saveFTypForCSV, initialdir=self.dirpath,
                                           initialfile="fittingParam", defaultextension=".csv")
         try:
             with open(filepath, "w") as f:
