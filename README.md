@@ -115,6 +115,7 @@ For Nix-Gao plot, you can plot fitting curve if "show fitting curve" is ticked.
 ## Authors
 
 * **K. Yabuuchi** 
+* See also the list of [contributors](https://github.com/kyphd/PlotG200/contributors) who participated in this project.
 
 ## License
 
